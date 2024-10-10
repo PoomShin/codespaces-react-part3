@@ -2,14 +2,14 @@
     display: grid;
     grid-template-columns: auto auto auto;
     justify-content: space-evenly;
-    background-color: rgb(170, 243, 243);
+    background-color: rgb(98, 187, 187);
 }
 .grid-container > div{
     margin: 10px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding-top: 10px;
     color: black;
-    border-color: gray;
+    border-color: rgb(83, 77, 77);
     border-style: solid;
     border-radius: 15px;
     text-align: center;
